@@ -65,7 +65,7 @@ Forest loss in Prey Lang is accelerating, particularly in the south. The wildlif
 
 ![Screenshot 2025-04-02 at 11 44 36](https://github.com/user-attachments/assets/1b9f883d-cbc6-4644-8851-ac8bc228810b)
 
-Figure 5: historical Forest loss of South Prey Lang. The primary colour is red, indicating a higher forest loss post creation of the protected area.
+Figure 5: historic Forest loss of South Prey Lang. The primary colour is red, indicating a higher forest loss post creation of the protected area.
 ![Screenshot 2025-04-02 at 11 45 14](https://github.com/user-attachments/assets/c3a4e019-b9d3-4a5b-a43d-8d693f854368)
 Figure 6: Forest loss over Prey Lang from 2000 - 2024
 
